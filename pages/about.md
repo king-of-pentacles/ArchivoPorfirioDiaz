@@ -10,18 +10,14 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="Sobre la colección;Sobre la Biblioteca Francisco Xavier Clavijero" %}
 
-## About the Collection
+## Sobre la colección
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Esta colección fue digitalizada por estudiantes de comunicación de la Universidad Iberoamericana para el curso de Fundamentos en Humanidades Digitales. Contiene algunas de las fotografías y documentos que la biblioteca de la universidad resguarda en el area de archivo. La Biblioteca FXC resguarda el archivo personal del ex-presidente mexicano Porfirio Díaz. Éste fue donado por una antigua estudiante quien es descendiente del antiguo mandatario. Contiene miles de cartas, fotografías y otros documentos históricos importantes.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+## Sobre la Biblioteca Francisco Xavier Clavijero
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+La Biblioteca Francisco Xavier Clavijero (FXC) es parte de la Universidad Iberoamericana. Está ubicada en el campus Ciudad de México, y está abierta para la consulta de investigadores.
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+{% include feature/button.html text="Visita la página oficial" link="https://www.bib.ibero.mx/site/" color="success" %}
