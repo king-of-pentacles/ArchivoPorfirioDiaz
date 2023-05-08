@@ -20,7 +20,9 @@ Esta colección fue digitalizada por estudiantes de comunicación de la Universi
 
 La Biblioteca Francisco Xavier Clavijero (FXC) es parte de la Universidad Iberoamericana. Está ubicada en el campus Ciudad de México, y está abierta para la consulta de investigadores.
 
-## Creadores
+{% include feature/button.html text="Visita la página oficial" link="https://www.bib.ibero.mx/site/" color="success" %}
+
+## Sobre los creadores
 
 Roberta Babatz: Estudiante de segundo semestre de la licenciatura en Comunicación en la Universidad Iberoamericana, campus Ciudad de México. 
 
@@ -30,4 +32,4 @@ Andres Mitrani: Estudiante de tercer semestre de la licenciatura en Comunicació
 
 María de María Campos: Investigadora en el área de acervos históricos de la Universidad Iberoamericana.
 
-{% include feature/button.html text="Visita la página oficial" link="https://www.bib.ibero.mx/site/" color="success" %}
+
